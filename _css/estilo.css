@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+
+header {
+    display: flex;
+    background: lightsalmon;
+    justify-content: center;
+}
+
+.sideleft {
+    width: 25%;
+    background: lightblue;
+}
+
+main {
+    background: blue;
+    width: 50%;
+}
+
+.sideright {
+
+    background: lightgreen;
+    width: 25%;
+}
+
+footer {
+    display: flex;
+    background: pink;
+    justify-content: center;
+}
+
+.teste {
+    display: flex;
+    justify-content: space-between;
+    min-height: 763px;
+}
