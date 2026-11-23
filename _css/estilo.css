@@ -33,7 +33,7 @@ footer {
     justify-content: center;
 }
 
-.teste {
+.centraliza {
     display: flex;
     justify-content: space-between;
     min-height: 763px;
